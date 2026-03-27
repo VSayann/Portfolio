@@ -1,0 +1,26 @@
+<style>
+
+    .project-img {
+        width: 400px;
+        height: 300px;
+        object-fit:cover;
+        border-radius: 8px;
+        box-shadow: 5px 5px 10px rgba(43, 43, 43, 0.5) ;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        display: block;   
+    }
+
+    .project-img:hover{
+        transform: scale(1.05);
+    }
+
+</style>
+
+<div style="display:flex; flex-direction: column; justify-content: center;">
+  <a target ="_blank" href="{{ include.href }}"><img class="project-img"
+       src="{{  include.image | relative_url  }}" 
+       alt="{{ include.alt }}"></a>
+
+  <div style="align-content: center;"></div>
+  
+</div>
