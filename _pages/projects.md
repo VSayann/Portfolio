@@ -12,6 +12,7 @@ permalink: "/projects/"
     image="assets/img/Klivio.png"%}
     
 <h4>"Klivio" - Premier Projet Epitech</h4>
+<h5><em>HTML, CSS, JS, Tailwind</em></h5>
 
 ---
 
@@ -21,12 +22,6 @@ permalink: "/projects/"
     image="assets/img/PGZ.png"%}
 
 <h4>"Maisons Amann" - Projet Asso Z En Anglais</h4>
+<h5><em>HTML, CSS, JS</em></h5>
 
 ---
-
-{%  include projects-cards.html
-    href="https://github.com/VSayann/BigEye"
-    alt="Photo Projet Machine Learning"
-    image="assets/img/ML.png"%}
-
-<h4>"BigEye" - Projet Personnel Machine Learning</h4>
