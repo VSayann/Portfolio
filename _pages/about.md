@@ -8,9 +8,14 @@ permalink: "/about/"
 ## Langages
 - HTML
 - CSS
-- Javascript
-- PHP
+- Javascript <em>(React, Vue)</em>
+- PHP <em>(MVC, Composer, Dompdf, Laravel)</em>
+- Tailwind CSS
 - Jekyll
+- JAVA
+- MySQL
+- Docker
+- DevOps
 
 ---
 
@@ -30,5 +35,6 @@ permalink: "/about/"
 ## Hobbies
 
 - Jeux-vidéos
-- Musique (pratique de la guitare)
+- Musique
 - Cinéma
+- Romans
