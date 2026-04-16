@@ -29,7 +29,7 @@ permalink: "/projects/"
 {%  include projects-cards.html
     href="https://github.com/VSayann/My-Cinema"
     alt="Photo Projet My Cinema Epitech"
-    image="assets/img/MyCinema.png"%}
+    image="assets/img/MyCinema.jpg"%}
 
 <h4>"My Cinema" - Quatrième Projet Epitech</h4>
 <h5><em>HTML, CSS, JS, PHP, PDO, MySQL, API Rest</em></h5>
